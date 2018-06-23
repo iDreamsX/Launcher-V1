@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Bibliothèques/Documents/Minecraft/Libs/openlauncherlib-3.0.3-BETA.jar"/>
+	<classpathentry kind="lib" path="D:/Bibliothèques/Documents/Minecraft/Libs/openauth-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Bibliothèques/Documents/Minecraft/Libs/s-update-3.1.0-BETA.jar"/>
+	<classpathentry kind="lib" path="D:/Bibliothèques/Documents/Minecraft/Libs/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Bibliothèques/Documents/Minecraft/Libs/swinger-1.0.0-BETA.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
